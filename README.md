@@ -3,8 +3,9 @@ I'm a software developer passionate about **clean, reusable code and best practi
 
 ## :man: Bio
 
-  :books:  I have completed my graduation in Computer Science with specialization in Business Systems from Vellore Institute of Technology (2020-2024) with a CGPA of 9.13
-:round_pushpin: Bhopal, Madhya Pradesh, India
+  - :books:  I have completed my graduation in Computer Science with specialization in Business Systems from Vellore Institute of Technology (2020-2024) with a CGPA of 9.13
+- :round_pushpin: Bhopal, Madhya Pradesh, India
+
 
 
 
